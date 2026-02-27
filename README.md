@@ -1,0 +1,1 @@
+This repository contains my daily LeetCode Problem of the Day (POTD) solutions along with Object-Oriented Programming (OOP) implementations in C++. My goal is to strengthen problem-solving skills, improve coding consistency, and build a solid understanding of C++ design principles through regular practice.
